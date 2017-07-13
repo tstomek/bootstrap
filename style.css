@@ -1,0 +1,15 @@
+body {
+    padding-top: 50px;
+}
+.navbar-default .navbar-brand {
+    color: #777;
+    padding: 0;
+}
+.carousel img {
+    margin: 0 auto;
+}
+.img-responsive {
+    height: 100vh;
+    width: 100%;
+    margin: 10px auto;
+}
